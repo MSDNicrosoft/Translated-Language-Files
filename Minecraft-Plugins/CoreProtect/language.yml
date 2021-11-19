@@ -6,7 +6,7 @@
 ACTION_NOT_SUPPORTED: "此操作该命令不支持"
 AMOUNT_BLOCK: "{0} 个{方块|方块}"
 AMOUNT_CHUNK: "{0} 个{区块|区块}"
-AMOUNT_ENTITY: "{0} 个{区块|区块}}"
+AMOUNT_ENTITY: "{0} 个{区块|区块}"
 AMOUNT_ITEM: "{0} 个{物品|物品}"
 API_TEST: "API 测试成功"
 CACHE_ERROR: "警告: 验证 {0} 缓存时出错"
