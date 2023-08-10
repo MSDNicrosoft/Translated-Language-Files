@@ -1,7 +1,7 @@
 # CoreProtect 语言文件（简体中文）
 # 由 MSDNicrosoft 汉化
 # 可在 Github 上找到我：https://github.com/MSDNicrosoft
-# 或访问我的个人网站：https://msdnicrosoft.cn
+# 或访问我的个人网站：https://msdnicrosoft.work
 
 ACTION_NOT_SUPPORTED: "该命令不支持此操作"
 AMOUNT_BLOCK: "{0} 个{方块|方块}"
